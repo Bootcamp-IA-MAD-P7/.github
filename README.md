@@ -1,6 +1,6 @@
-# 🤖 P6 - Inteligencia Artificial
+# 🤖 P7 - Inteligencia Artificial
 
-¡Bienvenido a la organización oficial de la **P6 de IA**! 🚀  
+¡Bienvenido a la organización oficial de la **P7 de IA**! 🚀  
 Este espacio está diseñado para que todos lxs coders de F5 compartan, colaboren y aprendan juntos construyendo proyectos reales.  
 
 ---
