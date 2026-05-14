@@ -22,6 +22,6 @@ Este espacio está diseñado para que todos lxs coders de F5 compartan, colabore
 ---
 
 ## 🧑‍💻 Comunidad
-Este espacio es de **todos los miembros de la P6**: comparte tu conocimiento, ayuda a otros y mantén un ambiente colaborativo y respetuoso.
+Este espacio es de **todos los miembros de la P7**: comparte tu conocimiento, ayuda a otros y mantén un ambiente colaborativo y respetuoso.
 
 > “El todo es más que la suma de las partes” 🌱  
